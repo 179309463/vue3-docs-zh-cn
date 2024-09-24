@@ -5,7 +5,7 @@ const { frontmatter } = useData()
 </script>
 
 <template>
-  <a
+  <!--a
     class="viteconf-cta-aside"
     href="https://viteconf.org/?utm=vue-sidebar"
     target="_blank"
@@ -20,7 +20,7 @@ const { frontmatter } = useData()
   <div v-if="frontmatter.sponsors !== false">
     <a class="sponsors-aside-text" href="/sponsor/">赞助位</a>
     <SponsorsGroup tier="platinum_china" />
-  </div>
+  </div-->
 </template>
 
 <style>

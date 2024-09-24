@@ -5,3 +5,12 @@
 @import "./inline-demo.css";
 @import "./utilities.css";
 @import "./style-guide.css";
+
+.VPFooter,
+.edit-link,
+.wwads-container{
+    display: none!important;
+}
+.DocSearch-Logo{
+    visibility: hidden;
+}

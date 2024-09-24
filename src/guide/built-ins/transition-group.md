@@ -78,7 +78,7 @@ import ListStagger from './transition-demos/ListStagger.vue'
 
 <ListMove />
 
-[完整的示例](/examples/#list-transition)
+<!-- [完整的示例](/examples/#list-transition) -->
 
 ## 渐进延迟列表动画 {#staggering-list-transitions}
 

@@ -2,17 +2,17 @@
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  const s = document.createElement('script')
-  s.async = true
-  s.src = `https://cdn.wwads.cn/js/makemoney.js`
-  document.querySelector('.wwads-container')!.appendChild(s)
+  //const s = document.createElement('script')
+  //s.async = true
+  //s.src = `https://cdn.wwads.cn/js/makemoney.js`
+  //document.querySelector('.wwads-container')!.appendChild(s)
 })
 </script>
 
 <template>
-  <div class="wwads-container">
+  <!--div class="wwads-container">
     <div class="wwads-cn wwads-vertical" data-id="53"></div>
-  </div>
+  </div-->
 </template>
 
 <style>

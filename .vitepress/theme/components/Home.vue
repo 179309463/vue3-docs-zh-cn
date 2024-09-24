@@ -39,7 +39,7 @@ onMounted(load)
         </svg>
       </a>
       <a class="setup" href="/guide/quick-start.html">安装</a>
-      <a class="security" href="https://v2.cn.vuejs.org/eol/" target="_blank">
+      <!--a class="security" href="https://v2.cn.vuejs.org/eol/" target="_blank">
         获取针对 Vue 2 的安全更新
         <svg
           class="icon"
@@ -50,11 +50,11 @@ onMounted(load)
             d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"
           />
         </svg>
-      </a>
+      </a-->
     </p>
   </section>
 
-  <section id="special-sponsor">
+  <!--section id="special-sponsor">
     <template v-if="data && data.platinum_china">
       <h3>中国区铂金赞助</h3>
       <div id="special-sponsor-container">
@@ -100,7 +100,7 @@ onMounted(load)
     <a v-else-if="data" class="lead" href="/sponsor/"
       >中国区铂金赞助位 点击了解更多</a
     >
-  </section>
+  </section-->
 
   <section id="highlights" class="vt-box-container">
     <div class="vt-box">
@@ -122,14 +122,14 @@ onMounted(load)
     </div>
   </section>
 
-  <section id="sponsors">
+  <!--section id="sponsors">
     <h2>Platinum Sponsors</h2>
     <SponsorsGroup tier="platinum" placement="landing" />
     <h2>Gold Sponsors</h2>
     <SponsorsGroup tier="gold" placement="landing" />
-  </section>
+  </section-->
 
-  <SiteMap />
+  <!--SiteMap /-->
   <!-- <NewsLetter /> -->
 </template>
 

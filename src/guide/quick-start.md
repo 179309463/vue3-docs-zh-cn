@@ -8,13 +8,13 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 
 # 快速上手 {#quick-start}
 
-## 线上尝试 Vue {#try-vue-online}
+<!-- ## 线上尝试 Vue {#try-vue-online}
 
 - 想要快速体验 Vue，你可以直接试试我们的[演练场](https://play.vuejs.org/#eNo9jcEKwjAMhl/lt5fpQYfXUQfefAMvvRQbddC1pUuHUPrudg4HIcmXjyRZXEM4zYlEJ+T0iEPgXjn6BB8Zhp46WUZWDjCa9f6w9kAkTtH9CRinV4fmRtZ63H20Ztesqiylphqy3R5UYBqD1UyVAPk+9zkvV1CKbCv9poMLiTEfR2/IXpSoXomqZLtti/IFwVtA9A==)。
 
 - 如果你更喜欢不用任何构建的原始 HTML，可以使用 [JSFiddle](https://jsfiddle.net/yyx990803/2ke1ab0z/) 入门。
 
-- 如果你已经比较熟悉 Node.js 和构建工具等概念，还可以直接在浏览器中打开 [StackBlitz](https://vite.new/vue) 来尝试完整的构建设置。
+- 如果你已经比较熟悉 Node.js 和构建工具等概念，还可以直接在浏览器中打开 [StackBlitz](https://vite.new/vue) 来尝试完整的构建设置。 -->
 
 ## 创建一个 Vue 应用 {#creating-a-vue-application}
 
@@ -431,7 +431,7 @@ export default {
 
 如果你尚未阅读[简介](/guide/introduction)，我们强烈推荐你在移步到后续文档之前返回去阅读一下。
 
-<div class="vt-box-container next-steps">
+<!-- <div class="vt-box-container next-steps">
   <a class="vt-box" href="/guide/essentials/application.html">
     <p class="next-steps-link">继续阅读该指南</p>
     <p class="next-steps-caption">该指南会带你深入了解框架所有方面的细节。</p>
@@ -444,4 +444,4 @@ export default {
     <p class="next-steps-link">查看示例</p>
     <p class="next-steps-caption">浏览核心功能和常见用户界面的示例。</p>
   </a>
-</div>
+</div-->

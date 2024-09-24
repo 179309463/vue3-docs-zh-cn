@@ -6,11 +6,11 @@ footer: false
 
 :::info 你正在阅读的是 Vue 3 的文档！
 
-- Vue 2 已于 **2023 年 12 月 31 日**停止维护。详见 [Vue 2 终止支持 (EOL)](https://v2.cn.vuejs.org/eol/)。
-- 想从 Vue 2 升级？请参考[迁移指南](https://v3-migration.vuejs.org/)。
+<!-- - Vue 2 已于 **2023 年 12 月 31 日**停止维护。详见 [Vue 2 终止支持 (EOL)](https://v2.cn.vuejs.org/eol/)。
+- 想从 Vue 2 升级？请参考[迁移指南](https://v3-migration.vuejs.org/)。 -->
 :::
 
-<style src="@theme/styles/vue-mastery.css"></style>
+<!-- <style src="@theme/styles/vue-mastery.css"></style>
 <div class="vue-mastery-link">
   <a href="https://www.vuemastery.com/courses/" target="_blank">
     <div class="banner-wrapper">
@@ -21,7 +21,7 @@ footer: false
         <img alt="Vue Mastery Logo" width="25px" src="https://storage.googleapis.com/vue-mastery.appspot.com/flamelink/media/vue-mastery-logo.png" />
     </div>
   </a>
-</div>
+</div> -->
 
 ## 什么是 Vue？ {#what-is-vue}
 
@@ -202,8 +202,6 @@ export default {
 </template>
 ```
 
-[在演练场中尝试一下](https://play.vuejs.org/#eNptkMFqxCAQhl9lkB522ZL0HNKlpa/Qo4e1ZpLIGhUdl5bgu9es2eSyIMio833zO7NP56pbRNawNkivHJ25wV9nPUGHvYiaYOYGoK7Bo5CkbgiBBOFy2AkSh2N5APmeojePCkDaaKiBt1KnZUuv3Ky0PppMsyYAjYJgigu0oEGYDsirYUAP0WULhqVrQhptF5qHQhnpcUJD+wyQaSpUd/Xp9NysVY/yT2qE0dprIS/vsds5Mg9mNVbaDofL94jZpUgJXUKBCvAy76ZUXY53CTd5tfX2k7kgnJzOCXIF0P5EImvgQ2olr++cbRE4O3+t6JxvXj0ptXVpye1tvbFY+ge/NJZt)
-
 ### 组合式 API (Composition API) {#composition-api}
 
 
@@ -233,8 +231,6 @@ onMounted(() => {
   <button @click="increment">Count is: {{ count }}</button>
 </template>
 ```
-
-[在演练场中尝试一下](https://play.vuejs.org/#eNpNkMFqwzAQRH9lMYU4pNg9Bye09NxbjzrEVda2iLwS0spQjP69a+yYHnRYad7MaOfiw/tqSliciybqYDxDRE7+qsiM3gWGGQJ2r+DoyyVivEOGLrgRDkIdFCmqa1G0ms2EELllVKQdRQa9AHBZ+PLtuEm7RCKVd+ChZRjTQqwctHQHDqbvMUDyd7mKip4AGNIBRyQujzArgtW/mlqb8HRSlLcEazrUv9oiDM49xGGvXgp5uT5his5iZV1f3r4HFHvDprVbaxPhZf4XkKub/CDLaep1T7IhGRhHb6WoTADNT2KWpu/aGv24qGKvrIrr5+Z7hnneQnJu6hURvKl3ryL/ARrVkuI=)
 
 ### 该选哪一个？{#which-to-choose}
 
@@ -266,7 +262,7 @@ onMounted(() => {
 
 不同的开发者有不同的学习方式。尽管在可能的情况下，我们推荐你通读所有内容，但你还是可以自由地选择一种自己喜欢的学习路径！
 
-<div class="vt-box-container next-steps">
+<!-- <div class="vt-box-container next-steps">
   <a class="vt-box" href="/tutorial/">
     <p class="next-steps-link">尝试互动教程</p>
     <p class="next-steps-caption">适合喜欢边动手边学的读者。</p>
@@ -279,4 +275,4 @@ onMounted(() => {
     <p class="next-steps-link">查看示例</p>
     <p class="next-steps-caption">浏览核心功能和常见用户界面的示例。</p>
   </a>
-</div>
+</div-->

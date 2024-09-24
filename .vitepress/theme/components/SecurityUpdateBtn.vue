@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="container">
+  <!--div class="container">
     <a 
       class="security" 
       href="https://www.herodevs.com/support/nes-vue?utm_source=vuejs_org&utm_medium=sidebar_link&utm_campaign=vue2eol"
@@ -19,7 +19,7 @@
         />
       </svg>
     </a>
-  </div>
+  </div-->
 </template>
 
 <style scoped>
